@@ -31,9 +31,9 @@ export default function App() {
         <Technologies />
         <Skills />
         <ContactForm />
-         <Route path="*" element={<NotFound />} /> 
-         <Projects /> 
-        <Experience /> 
+         {/* <Route path="*" element={<NotFound />} />  */}
+         {/* <Projects />  */}
+        {/* <Experience />  */}
         <Footer />
       </div>
     </div>
