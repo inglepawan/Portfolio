@@ -2,13 +2,13 @@
 import About from "./Components/About";
 import ContactForm from "./Components/ContactForm";
 import Footer from "./Components/Footer";
-// import Experience from "./Components/eXPERIENCE.JSX";
+import Experience from "./Components/eXPERIENCE.JSX";
 import Hero from "./Components/Hero";
 import NavBar from "./Components/NavBar";
-// import NotFound from "./Components/NotFound";
+import NotFound from "./Components/NotFound";
 import Services from "./Components/Services";
 import Skills from "./Components/Skills";
-// import Projects from "./Components/Projects";
+import Projects from "./Components/Projects";
 import Technologies from "./Components/Technologies";
 
 export default function App() {
